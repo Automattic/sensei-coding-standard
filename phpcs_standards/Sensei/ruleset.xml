@@ -30,6 +30,7 @@
 
 	<rule ref="PHPCompatibility">
 		<exclude name="PHPCompatibility.PHP.DefaultTimezoneRequired" />
+		<exclude name="PHPCompatibility.PHP.NewFunctionParameters"/>
 	</rule>
 
 	<!--
